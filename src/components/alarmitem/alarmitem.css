@@ -1,0 +1,36 @@
+li{
+  display: block;
+  list-style-type: none;
+  height: 8vh;
+  width: 100%;
+  border: 1px solid #bbb;
+  margin-bottom: 2vh;
+  display: flex;
+}
+
+#alarm-information{
+  font-size: 2rem;
+  height: 100%;
+}
+
+#trash-button-container{
+  all: unset;
+  height: 100%;
+  width: 5%;
+  background-color: #fff;
+  color: red;
+  text-align: center;
+  margin-left: auto;
+  border: 1px solid red;
+}
+
+#trash-button{
+  height: 22px;
+  width: 22px;
+}
+
+#trash-button-container:hover{
+  cursor: pointer;
+  background-color: red;
+  color: #fff;
+}
