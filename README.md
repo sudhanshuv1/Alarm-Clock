@@ -1,6 +1,6 @@
 # An alarm clock using ReactJS
 
-This project has been deployed at: https://reactjs-alarm-clock.netlify.app <br>
+This project is live at: https://reactjs-alarm-clock.netlify.app <br>
 
 It allows the user to set and delete alarms. Some features of this app:
 <ul>
